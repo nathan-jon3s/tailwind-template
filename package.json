@@ -7,6 +7,8 @@
     "preview": "vite preview --host"
   },
   "dependencies": {
+    "@headlessui/react": "^1.6.4",
+    "@heroicons/react": "^1.0.6",
     "@tailwindcss/forms": "^0.4.0",
     "aos": "^3.0.0-beta.6",
     "react": "^17.0.2",

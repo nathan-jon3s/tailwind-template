@@ -19,6 +19,7 @@ function Home() {
       <main className="flex-grow">
 
         {/*  Page sections */}
+
         <HeroHome />
         <FeaturesHome />
         <FeaturesBlocks />
